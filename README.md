@@ -15,6 +15,17 @@
 
 在GTLCore中添加了配置选项，玩家可以根据自己的喜好进行配置游戏难度。
 
+## 安装指南
+
+1.	下载最新客户端包 https://github.com/Nradar/corn-mc/releases
+   <img width="619" height="531" alt="image" src="https://github.com/user-attachments/assets/fed429d4-465f-4d7f-ad25-ff301ae45dcc" />
+2.	下载安装prismlauncher https://prismlauncher.org
+3.	导入客户端包
+   <img width="716" height="505" alt="image" src="https://github.com/user-attachments/assets/fb9924a2-df59-4ff7-976e-40dec89f0c9f" />
+   <img width="865" height="471" alt="image" src="https://github.com/user-attachments/assets/be881944-5aef-464d-84c0-2e137e5c1e72" />
+   <img width="865" height="487" alt="image" src="https://github.com/user-attachments/assets/707b9426-05e0-443a-945f-79f1021dcd00" />
+4. 双击启动！
+
 ## 主要流程
 
 - 蒸汽：收集基础资源，更大更强蒸汽机器，炼钢。
