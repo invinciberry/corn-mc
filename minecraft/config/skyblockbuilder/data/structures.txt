@@ -7,6 +7,8 @@ ad_astra:pygro_tower
 ad_astra:pygro_village
 ad_astra:venus_bullet
 ae2:meteorite
+immortalers_delight:immortalers_relic
+immortalers_delight:ruins_with_cherry_tree
 minecraft:ancient_city
 minecraft:bastion_remnant
 minecraft:buried_treasure

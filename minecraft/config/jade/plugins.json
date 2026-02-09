@@ -1,7 +1,4 @@
 {
-  "gtmthings": {
-    "wireless_energy_hatch_provider": true
-  },
   "framedblocks": {
     "framed_item_frame": true
   },
@@ -11,8 +8,8 @@
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage.normal_amount": 9,
     "item_storage": true,
+    "item_storage.normal_amount": 9,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -61,18 +58,15 @@
     "extreme": true,
     "compressor": true
   },
-  "pipez": {
-    "pipe": true
-  },
   "gtceu": {
-    "auto_output_info": true,
     "primitive_pump": true,
+    "auto_output_info": true,
     "workable_provider": true,
     "transformer": true,
     "controllable_provider": true,
     "me_molecular_assembler_io": true,
-    "exhaust_vent_info": true,
     "me_pattern_buffer": true,
+    "exhaust_vent_info": true,
     "me_pattern_buffer_proxy": true,
     "multiblock_structure": true,
     "recipe_logic_provider": true,
@@ -101,6 +95,9 @@
     "tick_time_provider": true,
     "wireless_data_hatch_provider": true
   },
+  "balm": {
+    "jade": true
+  },
   "ae2": {
     "part_icon": true,
     "charger": true,
@@ -112,5 +109,21 @@
     "power_storage": true,
     "crafting_monitor": true,
     "part_name": true
+  },
+  "gtmthings": {
+    "wireless_energy_hatch_provider": true
+  },
+  "kaleidoscope_cookery": {
+    "chopping_board": true,
+    "shawarma_spit": true,
+    "recipe_block": true,
+    "millstone": true,
+    "enamel_basin": true
+  },
+  "pipez": {
+    "pipe": true
+  },
+  "waystones": {
+    "waystone": true
   }
 }
