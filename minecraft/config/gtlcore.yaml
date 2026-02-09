@@ -1,0 +1,83 @@
+disableDrift: true
+
+enableSkyBlokeMode: false
+
+oreMultiplier: 4
+
+cellType: 4
+
+spacetimePip: 2147483647
+
+durationMultiplier: 1.0
+
+travelStaffCD: 2
+
+# 更大的数值会让界面显示有问题，推荐在样板管理终端管理
+exPatternProvider: 36
+
+enablePrimitiveVoidOre: false
+
+# 连锁黑名单,支持通配符*
+blackBlockList:
+  - ae2:cable_bus
+  - minecraft:grass_block
+
+# 可能会极小地影响性能
+enableSmoothAnimations: true
+
+# ME样板总成输出最小间隔
+MEPatternOutputMin: 5
+
+# ME样板总成输出最大间隔
+MEPatternOutputMax: 80
+
+# 是否启用ME库存极限拉取模式(保证机器不会停机, 但是会大幅降低TPS!)
+enableUltimateMEStocking: false
+
+# AE2合成更新间隔(tick), 值越大性能越好但响应越慢, 必须是2的幂次(1,2,4,8,16)
+ae2CraftingServiceUpdateInterval: 4
+
+# AE2库存更新间隔(tick), 值越大性能越好但响应越慢, 必须是2的幂次(1,2,4,8,16)
+ae2StorageServiceUpdateInterval: 8
+
+# AE2合成计算模式: LEGACY(原版), FAST(快速), ULTRA_FAST(最快)
+ae2CalculationMode: ULTRA_FAST
+
+mobList1:
+  - chicken
+  - rabbit
+  - sheep
+  - cow
+  - horse
+  - pig
+  - donkey
+  - skeleton_horse
+  - iron_golem
+  - wolf
+  - goat
+  - parrot
+  - camel
+  - cat
+  - fox
+  - llama
+  - panda
+  - polar_bear
+
+mobList2:
+  - ghast
+  - zombie
+  - pillager
+  - zombie_villager
+  - skeleton
+  - drowned
+  - witch
+  - spider
+  - creeper
+  - husk
+  - wither_skeleton
+  - blaze
+  - zombified_piglin
+  - slime
+  - vindicator
+  - enderman
+

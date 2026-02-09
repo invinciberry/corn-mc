@@ -1,0 +1,17 @@
+filename = 'laserio-uel-1.5.0.jar'
+name = 'LaserIO Unofficial Extended Life'
+side = 'server'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'LaserIO UEL - 1.5.0'
+
+[download]
+hash = '1bc52bd6a94164b2558f2017bd5b4a78cef1725e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6773950
+project-id = 1168178

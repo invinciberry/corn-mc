@@ -1,0 +1,17 @@
+filename = 'SkyblockBuilder-1.20.1-5.1.27.jar'
+name = 'Skyblock Builder'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'SkyblockBuilder-1.20.1-5.1.27.jar'
+
+[download]
+hash = '9eb0fa86488aef6ffafc5b6683dd30bbb141a34e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6654129
+project-id = 446691

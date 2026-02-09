@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "12582b13fec44f65b17a61a37b55b0f6"
+	name: "nradar_corn#12582b13"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

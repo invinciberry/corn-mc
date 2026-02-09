@@ -1,0 +1,17 @@
+filename = 'usclb-0.0.26.jar'
+name = 'Useful Clipboard'
+side = ''
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'UsefulClipboard-1.20.1-0.0.26'
+
+[download]
+hash = 'aed2d2203857482732f4bd6a2b2569410ec493c5'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6664039
+project-id = 664224

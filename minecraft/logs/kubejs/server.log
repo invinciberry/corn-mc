@@ -1,0 +1,37 @@
+[02:32:35] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[02:32:35] [INIT] Loaded plugins:
+[02:32:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[02:32:35] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[02:32:35] [INIT] - org.gtlcore.gtlcore.integration.kjs.GTLKubejsPlugin
+[02:32:35] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[02:32:35] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[02:32:35] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[02:32:35] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[02:32:35] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[02:32:35] [INFO] Loaded script server_scripts:tag.js in 0.002 s
+[02:32:35] [INFO] misc.js#116: Loaded Java class 'com.gregtechceu.gtceu.api.capability.GTCapabilityHelper'
+[02:32:35] [INFO] misc.js#117: Loaded Java class 'com.hepdd.gtmthings.api.misc.WirelessEnergyManager'
+[02:32:35] [INFO] misc.js#118: Loaded Java class 'java.math.BigInteger'
+[02:32:35] [INFO] misc.js#119: Loaded Java class 'com.gregtechceu.gtceu.api.recipe.RecipeHelper'
+[02:32:35] [INFO] misc.js#120: Loaded Java class 'com.gregtechceu.gtceu.utils.FormattingUtil'
+[02:32:35] [INFO] misc.js#121: Loaded Java class 'net.minecraft.world.level.ClipContext'
+[02:32:35] [INFO] Loaded script server_scripts:misc.js in 0.02 s
+[02:32:35] [INFO] Loaded script server_scripts:minecraft.js in 0.001 s
+[02:32:35] [INFO] Loaded script server_scripts:gtceu.js in 0.039 s
+[02:32:35] [INFO] Loaded script server_scripts:ae2.js in 0.001 s
+[02:32:35] [INFO] Loaded script server_scripts:ores.js in 0.001 s
+[02:32:35] [INFO] Loaded script server_scripts:ad.js in 0.001 s
+[02:32:35] [INFO] Loaded script server_scripts:avaritia.js in 0.0 s
+[02:32:35] [INFO] Loaded script server_scripts:fix.js in 0.0 s
+[02:32:35] [INFO] Loaded script server_scripts:laserio.js in 0.0 s
+[02:32:35] [INFO] Loaded 10/10 KubeJS server scripts in 0.08 s with 0 errors and 0 warnings
+[02:32:35] [INFO] Scripts loaded
+[02:32:35] [INFO] Initializing recipe event...
+[02:32:36] [INFO] [minecraft:fluid] Found 1093 tags, added 0 objects, removed 3 objects
+[02:32:37] [INFO] [minecraft:block] Found 1066 tags, added 154 objects, removed 0 objects
+[02:32:37] [INFO] [minecraft:item] Found 6532 tags, added 187 objects, removed 0 objects
+[02:32:38] [INFO] Processing recipes...
+[02:32:38] [INFO] Found 51463 recipes in 708.7 ms
+[02:32:39] [INFO] Posted recipe events in 1.226 s
+[02:32:41] [INFO] Added 5128 recipes, removed 129 recipes, modified 1 recipes, with 0 failed recipes in 1.788 s
+[02:32:43] [INFO] Server resource reload complete!
