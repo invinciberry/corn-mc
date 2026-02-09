@@ -1,23 +1,23 @@
-[12:14:08] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
-[12:14:08] [INIT] Loaded plugins:
-[12:14:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
-[12:14:08] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
-[12:14:08] [INIT] - org.gtlcore.gtlcore.integration.kjs.GTLKubejsPlugin
-[12:14:08] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
-[12:14:08] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
-[12:14:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
-[12:14:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
-[12:14:08] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
-[12:14:08] [INIT] - com.github.ysbbbbbb.kaleidoscopecookery.compat.kubejs.ModKubeJSPlugin
-[12:14:09] [INFO] Loaded script startup_scripts:item.js in 0.111 s
-[12:14:09] [INFO] Loaded script startup_scripts:block.js in 0.006 s
-[12:14:09] [INFO] ores.js#2: Loaded Java class 'net.minecraft.world.level.block.state.BlockBehaviour'
-[12:14:09] [INFO] ores.js#3: Loaded Java class 'net.minecraft.tags.BlockTags'
-[12:14:09] [INFO] Loaded script startup_scripts:ores.js in 0.005 s
-[12:14:09] [INFO] key.js#1: Loaded Java class 'com.lowdragmc.lowdraglib.LDLib'
-[12:14:09] [INFO] Loaded script startup_scripts:key.js in 0.004 s
-[12:14:09] [INFO] Loaded script startup_scripts:tips.js in 0.006 s
-[12:14:09] [INFO] Loaded 5/5 KubeJS startup scripts in 1.742 s with 0 errors and 0 warnings
-[12:14:10] [INFO] key.js#4: Loaded Java class 'net.minecraft.client.KeyMapping'
-[12:14:10] [INFO] key.js#5: Loaded Java class 'org.lwjgl.glfw.GLFW'
-[12:14:10] [INFO] key.js#6: Loaded Java class 'dev.architectury.registry.client.keymappings.KeyMappingRegistry'
+[12:38:39] [INIT] KubeJS 2001.6.5-build.16; MC 2001 forge
+[12:38:39] [INIT] Loaded plugins:
+[12:38:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgePlugin
+[12:38:39] [INIT] - dev.latvian.mods.kubejs.forge.BuiltinKubeJSForgeClientPlugin
+[12:38:39] [INIT] - org.gtlcore.gtlcore.integration.kjs.GTLKubejsPlugin
+[12:38:39] [INIT] - com.gregtechceu.gtceu.integration.kjs.GregTechKubeJSPlugin
+[12:38:39] [INIT] - com.lowdragmc.lowdraglib.kjs.LDLibKubeJSPlugin
+[12:38:39] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbquests.kubejs.KubeJSIntegration
+[12:38:39] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbchunks.kubejs.FTBChunksKubeJSPlugin
+[12:38:39] [INIT] - dev.ftb.mods.ftbxmodcompat.ftbteams.kubejs.FTBTeamsKubeJSPlugin
+[12:38:39] [INIT] - com.github.ysbbbbbb.kaleidoscopecookery.compat.kubejs.ModKubeJSPlugin
+[12:38:40] [INFO] Loaded script startup_scripts:item.js in 0.095 s
+[12:38:40] [INFO] Loaded script startup_scripts:block.js in 0.007 s
+[12:38:40] [INFO] ores.js#2: Loaded Java class 'net.minecraft.world.level.block.state.BlockBehaviour'
+[12:38:40] [INFO] ores.js#3: Loaded Java class 'net.minecraft.tags.BlockTags'
+[12:38:40] [INFO] Loaded script startup_scripts:ores.js in 0.006 s
+[12:38:40] [INFO] key.js#1: Loaded Java class 'com.lowdragmc.lowdraglib.LDLib'
+[12:38:40] [INFO] Loaded script startup_scripts:key.js in 0.002 s
+[12:38:40] [INFO] Loaded script startup_scripts:tips.js in 0.004 s
+[12:38:40] [INFO] Loaded 5/5 KubeJS startup scripts in 1.716 s with 0 errors and 0 warnings
+[12:38:41] [INFO] key.js#4: Loaded Java class 'net.minecraft.client.KeyMapping'
+[12:38:41] [INFO] key.js#5: Loaded Java class 'org.lwjgl.glfw.GLFW'
+[12:38:41] [INFO] key.js#6: Loaded Java class 'dev.architectury.registry.client.keymappings.KeyMappingRegistry'
