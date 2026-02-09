@@ -56,3 +56,7 @@ QQ交流群：456040951。
 - 部分纹理来自 **[Mekanism](https://github.com/mekanism/Mekanism)**
 - 部分纹理来自 **[Deeper And Darker](https://github.com/KyaniteMods/DeeperAndDarker)**
 - 部分任务文本来自 **[GregTech Community Pack](https://github.com/GregTechCEu/GregTech-Community-Pack)**
+
+## 附加mods
+Botania
+Patchouli
