@@ -60,3 +60,10 @@ QQ交流群：456040951。
 ## 附加mods
 Botania
 Patchouli
+更多红石more red
+森罗厨房
+农夫乐事
+千古乐事
+waystone
+balm
+comforts
